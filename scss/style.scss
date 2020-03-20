@@ -1,0 +1,13 @@
+// import Font Awesome
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css";
+
+// Override Bs4 variables and custom mixins
+$theme-colors: (
+        'primary': #009CAB,
+        'danger': #F04C25
+);
+
+// Link to BS4
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom code/partials
