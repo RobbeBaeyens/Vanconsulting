@@ -1,9 +1,4 @@
-# 1ITF Sass-BS4-project
-Dit is een basiswebsite voor de les **Sass** met **Bootstrap 4** in 1ITF van de Thomas More Hogeschool (campus Geel).
-
-<p align="center">
-    <img src="https://www.thomasmore.be/themes/wundertheme/logo.svg" alt="Thomasm More Kempen" width="300" />
-</p>
+# Vanconsulting
 
 ## Basisvereisten (eenmalig te installeren)
 
