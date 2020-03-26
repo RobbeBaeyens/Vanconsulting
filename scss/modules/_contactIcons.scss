@@ -1,4 +1,14 @@
-#contact i{
-    width : 200px;
-    height:200px;
+.contacticon {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: gray;
+}
+
+.contacticon i {
+    color: map-get($theme-colors, "light");
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
