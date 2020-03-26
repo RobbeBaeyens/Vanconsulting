@@ -4,6 +4,7 @@
 // Override Bs4 variables and custom mixins
 @import "./base/variables";
 @import "./base/mixins";
+@import "./base/main";
 
 // Link to BS4
 @import "../node_modules/bootstrap/scss/bootstrap";
